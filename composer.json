@@ -25,7 +25,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/rushi/omnipay-common"
+            "url": "https://github.com/xola/omnipay-common"
         }
     ],
     "autoload": {
